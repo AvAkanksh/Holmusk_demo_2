@@ -1,0 +1,7 @@
+Holmusk\_demo\_2 module
+=======================
+
+.. automodule:: Holmusk_demo_2
+   :members:
+   :undoc-members:
+   :show-inheritance:
